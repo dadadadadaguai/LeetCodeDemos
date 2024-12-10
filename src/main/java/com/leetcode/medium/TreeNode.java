@@ -1,10 +1,6 @@
 package com.leetcode.medium;
 
-import lombok.Data;
-import lombok.Getter;
-import lombok.val;
 
-@Data
 public class TreeNode {
   Integer val;
   TreeNode right;
