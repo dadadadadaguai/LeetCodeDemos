@@ -1,8 +1,6 @@
-package com.leetcode;
+package com.leetcode.medium;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class problem242 {
   public boolean isAnagram(String s, String t) {

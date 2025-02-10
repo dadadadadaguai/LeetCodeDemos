@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.leetcode.singlecompetion;
 
 // Alice 正在她的电脑上输入一个字符串。但是她打字技术比较笨拙，她 可能 在一个按键上按太久，导致一个字符被输入 多次 。
 // 尽管 Alice 尽可能集中注意力，她仍然可能会犯错 至多 一次。

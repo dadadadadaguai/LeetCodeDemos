@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.leetcode.medium;
 
 /**
  * problem63: 不同路径 II

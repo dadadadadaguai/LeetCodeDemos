@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.leetcode.medium;
 
 /**
  * problem96: 不同的二叉搜索树

@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.leetcode.medium;
 
 public class proplem34 {
   public static void main(String[] args) {

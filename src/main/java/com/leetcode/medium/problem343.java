@@ -1,6 +1,4 @@
-package com.leetcode;
-
-import java.util.Arrays;
+package com.leetcode.medium;
 
 /**
  * problem343:整数拆分
